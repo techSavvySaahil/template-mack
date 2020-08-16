@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/template-mack/static/css/main.9977d64f.chunk.css",
+    "main.css": "/template-mack/static/css/main.17cf9073.chunk.css",
     "main.js": "/template-mack/static/js/main.f6d203c0.chunk.js",
     "main.js.map": "/template-mack/static/js/main.f6d203c0.chunk.js.map",
     "runtime-main.js": "/template-mack/static/js/runtime-main.5548c94a.js",
@@ -8,9 +8,9 @@
     "static/js/2.6f88618d.chunk.js": "/template-mack/static/js/2.6f88618d.chunk.js",
     "static/js/2.6f88618d.chunk.js.map": "/template-mack/static/js/2.6f88618d.chunk.js.map",
     "index.html": "/template-mack/index.html",
-    "precache-manifest.e8256f20ffa963ff821560b6bbda45cd.js": "/template-mack/precache-manifest.e8256f20ffa963ff821560b6bbda45cd.js",
+    "precache-manifest.be5a7bcb3b6194901b9420ee0e1fd553.js": "/template-mack/precache-manifest.be5a7bcb3b6194901b9420ee0e1fd553.js",
     "service-worker.js": "/template-mack/service-worker.js",
-    "static/css/main.9977d64f.chunk.css.map": "/template-mack/static/css/main.9977d64f.chunk.css.map",
+    "static/css/main.17cf9073.chunk.css.map": "/template-mack/static/css/main.17cf9073.chunk.css.map",
     "static/js/2.6f88618d.chunk.js.LICENSE.txt": "/template-mack/static/js/2.6f88618d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/template-mack/static/media/Montserrat-SemiBold.c641dbee.ttf",
     "static/media/boxer-brief.svg": "/template-mack/static/media/boxer-brief.b0b52735.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.5548c94a.js",
     "static/js/2.6f88618d.chunk.js",
-    "static/css/main.9977d64f.chunk.css",
+    "static/css/main.17cf9073.chunk.css",
     "static/js/main.f6d203c0.chunk.js"
   ]
 }
